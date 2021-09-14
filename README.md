@@ -10,7 +10,7 @@
 * Copy lệnh bên dưới và paste vào putty
 
 ```
-yum install update -y; wget https://raw.githubusercontent.com/Nolimit-key/nagios-mail-dns/main/menu; chmod +x menu; ./menu
+yum install wget -y; wget https://raw.githubusercontent.com/Nolimit-key/nagios-mail-dns/main/menu; chmod +x menu; ./menu
 ```
 * Gõ ./menu để mở menu
 ```
